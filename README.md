@@ -56,51 +56,69 @@ Open To:
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&theme=dark"/>
 </p>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
 </p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs&theme=dark"/>
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase&theme=dark"/>
 </p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,canva&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark"/>
 </p>
 
----
+</td>
+</tr>
+</table>
+<br> 
 
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sru36&show_icons=true&theme=midnight-purple&hide_border=true&hide=issues"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sru36&show_icons=true&theme=midnight-purple&hide_border=true&hide=issues"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sru36&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sru36&theme=midnight-purple&hide_border=true"/>
 
 
 
-<br>
 
 
 
